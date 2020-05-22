@@ -1,0 +1,19 @@
+{
+  "name": "guitar-chords",
+  "version": "1.0.0",
+  "description": "Playing with guitar chords",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew8088/guitar-chords.git"
+  },
+  "author": "Andrew Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew8088/guitar-chords/issues"
+  },
+  "homepage": "https://github.com/andrew8088/guitar-chords#readme"
+}
