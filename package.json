@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andrew8088/guitar-chords/issues"
   },
-  "homepage": "https://github.com/andrew8088/guitar-chords#readme"
+  "homepage": "https://github.com/andrew8088/guitar-chords#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
 }
