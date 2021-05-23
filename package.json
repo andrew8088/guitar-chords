@@ -4,7 +4,8 @@
   "description": "Playing with guitar chords",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "ts-node src/lib/index"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,13 @@
   },
   "homepage": "https://github.com/andrew8088/guitar-chords#readme",
   "dependencies": {
-    "jest": "^26.0.1"
+    "jest": "^26.0.1",
+    "ts-node": "^8.10.1",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.9.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "ts-jest": "^26.1.0"
   }
 }
